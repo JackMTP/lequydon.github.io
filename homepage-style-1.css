@@ -17,7 +17,7 @@ h1 {
 }
 /*head*/
 .head {
-  background-image: url(./homepage-banner.jpg);
+  background-image: url(./hompage-banner.jpg);
   background-size: cover;
   min-height: 100vh;
   background-position: center;
